@@ -1,15 +1,56 @@
 <h1 align="center">Hi I'm Damilola Yesifu</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [thrive-agency](https://thrive-agency.vercel.app/)
+- 🔭 # Thrive Agency 
 
-- 🌱 I’m currently learning **Next.js**
+A modern business agency website built with **Next.js** and **Tailwind CSS**.
+
+## 🚀 Features
+- Server-side rendering (SSR) & Static site generation (SSG)
+- Responsive design with Tailwind CSS
+- SEO optimized with Next.js Metadata API
+- Deployed on Vercel
+
+## 🔗 Live Demo
+[View Project](https://thrive-agency-inc.vercel.app/)
+
+## 🛠️ Tech Stack
+- Next.js 
+- Tailwind CSS
+- Vercel
+
+- 🌱 I’m an expert in Next.js, with hands-on experience building full-stack applications, integrating APIs, optimizing for performance, and deploying to platforms like Vercel, AWS, and Netlify. I specialize in creating scalable, SEO-friendly, and user-focused web solutions using Next.js, React, and modern tools in the ecosystem (TypeScript, Tailwind CSS, Supabase, Strapi, etc.).
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eta-eight-60.vercel.app/](https://portfolio-eta-eight-60.vercel.app/)
 
-- 💬 Ask me about **JavaScript, React, Tailwindcss, RESTAPI, React-Query, Context API**
+- 💬## 💻 Tech Stack & Tools
 
-- 📫 How to reach me **yesifudamilolamax@gmail.com**
+- **Languages:** JavaScript (ES6+), TypeScript  
+- **Frontend:** React, Next.js, TailwindCSS  
+- **State & Data:** React Query, Context API, Redux  
+- **Backend & APIs:** REST API integration, Supabase, Strapi  
+- **Tools & Workflow:** Git, GitHub, VS Code  
+
+
+## 🚀 What to Ask Me About
+
+- ⚡ **JavaScript** — from fundamentals to advanced concepts  
+- ⚛️ **React.js** — hooks, components, and reusable patterns  
+- 🎨 **TailwindCSS** — responsive and modern UI design  
+- 🔗 **REST APIs** — fetching, error handling, and integration  
+- 📦 **React Query** — data fetching, caching, and mutations  
+- 🌀 **Context API** — global state management  
+- 🛠️ **Git** — version control & collaboration best practices  
+- 📝 **TypeScript** — typing React apps for scalability  
+- 🌐 **Next.js** — SEO, server-side rendering (SSR), static generation (SSG), and API routes
+
+- 
+-📫 Connect with Me
+
+- email: **yesifudamilolamax@gmail.com**
+- Upwork: *https://www.upwork.com/freelancers/~01548478dbebc3f936*  
+- LinkedIn: *https://www.linkedin.com/in/yesifu-damilola/*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
