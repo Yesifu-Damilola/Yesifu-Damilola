@@ -45,8 +45,8 @@ You can:
 ### 🌱 Always Exploring
 Technology never stops evolving—and neither do I. Beyond my current stack, I’m passionate about experimenting with new tools, frameworks, and approaches that challenge me to grow and expand my horizons. 🚀
 
-<u>🌐 Socials:</u>
-<hr/>
+🌐 Socials:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/yesifu-damilola/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
