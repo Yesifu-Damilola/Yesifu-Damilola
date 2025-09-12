@@ -9,18 +9,13 @@ Open to freelance, remote, or contract opportunities—let’s build something i
 ---
 
 ##🛠️ Tech Stack & Skills  
-
-- Frontend Development: React, Next.js, TypeScript, Redux, Redux Toolkit, React Query, HTML5, CSS/SCSS, Tailwind CSS
-  
+- Frontend Development: React, Next.js, TypeScript, Redux, Redux Toolkit, React Query, HTML5, CSS/SCSS, Tailwind CSS  
 - Backend Integration: Supabase, REST APIs
-
 - UI/UX: Mobile-first, responsive, user-friendly design 
-
 - SDK Development: JavaScript SDKs  
-
 - Testing & Quality Assurance: React Testing Library, Vitest 
-
 - Collaboration & Workflow: GitHub, Jira, ClickUp, Microsoft Teams 
+
 
 ---
 
@@ -40,10 +35,12 @@ You can:
 - Reach out for collaborations, inquiries, or job opportunities 💼
 - Or simply drop a “Hi” to start a conversation 😊
 
+
 ---
 
 ### 🌱 Always Exploring
 Technology never stops evolving—and neither do I. Beyond my current stack, I’m passionate about experimenting with new tools, frameworks, and approaches that challenge me to grow and expand my horizons. 🚀
+
 
 🌐 Socials:
 
@@ -52,6 +49,8 @@ Technology never stops evolving—and neither do I. Beyond my current stack, I�
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+
 
 💻 Tech Stack:
 
@@ -81,7 +80,6 @@ Technology never stops evolving—and neither do I. Beyond my current stack, I�
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
 
 ## 📊 GitHub Stats: 
 
