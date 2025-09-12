@@ -84,22 +84,12 @@ Technology never stops evolving—and neither do I. Beyond my current stack, I�
 
 ## 📊 GitHub Stats: 
 
-![Damilola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yesifu-Damilola&show_icons=true&theme=dark)  
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yesifu-Damilola&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yesifu-Damilola&layout=compact&theme=dark) 
-
-## 📊 GitHub Stats  
-<!-- Main Stats Card -->
 ![Damilola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yesifu-Damilola&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=false)  
 
-<!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yesifu-Damilola&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
-<!-- Top Languages (hide less relevant ones) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yesifu-Damilola&layout=compact&theme=dark&langs_count=8&hide=css,scss,html)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yesifu-Damilola&layout=compact&theme=dark) 
+ 
 
 <!--
 **Yesifu-Damilola/Yesifu-Damilola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
