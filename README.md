@@ -1,49 +1,59 @@
 <h1 align="center">Hi 👋, I'm Damilola Yesifu</h1>
-<h3 align="center">🚀 Passionate Frontend Developer</h3>
+<h3 align="center">🚀 About Me</h3>
 
-## 👨‍💻 About Me  
-I’m a **Frontend Developer** specializing in **Next.js, React, and modern web technologies**. I build scalable, SEO-friendly, and user-focused web applications, with expertise in **full-stack integrations, API handling, and performance optimization**.  
-
-- 🌱 Expert in **Next.js** and its ecosystem (TypeScript, Tailwind CSS, Supabase, Strapi, etc.)  
-- 👨‍💻 Check out my projects at [My Portfolio](https://portfolio-eta-eight-60.vercel.app/)  
-- 💬 Ask me about **JavaScript, React, Tailwind CSS, REST APIs, React Query, Context API, Git, TypeScript, and Next.js**  
+Results-driven software developer with 3+ years of expertise in software development, system architecture, and AI-driven solutions. Proficient in React, Next.js, and TypeScript, with a strong focus on building high-quality, scalable web applications. Skilled in coding and debugging, with a passion for driving innovation through AI, technology, and forward-thinking software design.
+Open to freelance, remote, or contract opportunities—let’s build something impactful together!😊 
 
 
-## 🛠️ Tech Stack & Tools  
 
-**Languages:**  
-- JavaScript (ES6+), TypeScript  
+---
 
-**Frontend:**  
-- React, Next.js, Tailwind CSS  
+## 🛠️🛠️ Tech Stack & Skills  
 
-**State & Data:**  
-- React Query, Context API, Redux  
+- Frontend Development: React, Next.js, TypeScript, Redux, Redux Toolkit, React Query, HTML5, CSS/SCSS, Tailwind CSS
+  
+- Backend Integration: Supabase, REST APIs
 
-**Backend & APIs:**  
-- REST API integration, Supabase, Strapi  
+- UI/UX: Mobile-first, responsive, user-friendly design 
 
-**Tools & Workflow:**  
-- Git, GitHub, VS Code, Vercel, AWS, Netlify  
+- SDK Development: JavaScript SDKs  
+
+- Testing & Quality Assurance: React Testing Library, Vitest 
+
+- Collaboration & Workflow: GitHub, Jira, ClickUp, Microsoft Teams 
+
+---
+
+### 💡 What I Bring
+- Expertise in building scalable, user-friendly and SaaS.
+- Strong proficiency in complex data visualization and workflow-based solutions.
+- Proven experience working with modern development practices and collaborative workflows.
+- Passion for staying current with modern technologies and sharing knowledge with others.
+
+---
+
+### 🤝 Let's Connect!
+I’m always excited to connect, collaborate, and explore new opportunities. Whether it’s freelance, remote, on-site, or contract-based work, I’d love to hear from you.
+
+You can:
+- Follow me here on GitHub 🌟
+- Reach out for collaborations, inquiries, or job opportunities 💼
+-Or simply drop a “Hi” to start a conversation 😊
+
+---
+
+### 🌱 Always Exploring
+Technology never stops evolving—and neither do I. Beyond my current stack, I’m passionate about experimenting with new tools, frameworks, and approaches that challenge me to grow and expand my horizons. 🚀
+
+🌐 Socials:
+LinkedIn
 
 
-## 💡 What You Can Ask Me About  
-- ⚡ **JavaScript** — fundamentals to advanced concepts  
-- ⚛️ **React.js** — hooks, components, reusable patterns  
-- 🎨 **TailwindCSS** — responsive & modern UI design  
-- 🔗 **REST APIs** — fetching, error handling, integration  
-- 📦 **React Query** — caching & mutations  
-- 🌀 **Context API** — global state management  
-- 📝 **TypeScript** — typing React apps for scalability  
-- 🌐 **Next.js** — SEO, SSR, SSG, and API routes  
-- 🛠️ **Git** — version control & collaboration best practices  
+💻 Tech Stack:
 
+CSS3 TypeScript JavaScript HTML5 Vercel React React Query React Router React Hook Form Redux Remix TailwindCSS  Vite Webpack NodeJS Next JS NPM  Postgres  Supabase Figma Jira
 
-## 📫 Connect with Me  
-- 📧 Email: **yesifudamilolamax@gmail.com**  
-- 💼 Upwork: [Hire Me](https://www.upwork.com/freelancers/~01548478dbebc3f936)  
-- 🔗 LinkedIn: [Yesifu Damilola](https://www.linkedin.com/in/yesifu-damilola/)  
-
+📊 GitHub Stats:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
