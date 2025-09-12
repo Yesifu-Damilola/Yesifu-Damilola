@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damilola Yesifu</h1>
-<h3 align="center">🚀 Passionate Frontend Developer from Nigeria</h3>
+<h3 align="center">🚀 Passionate Frontend Developer</h3>
 
 ## 👨‍💻 About Me  
 I’m a **Frontend Developer** specializing in **Next.js, React, and modern web technologies**. I build scalable, SEO-friendly, and user-focused web applications, with expertise in **full-stack integrations, API handling, and performance optimization**.  
@@ -7,18 +7,6 @@ I’m a **Frontend Developer** specializing in **Next.js, React, and modern web 
 - 🌱 Expert in **Next.js** and its ecosystem (TypeScript, Tailwind CSS, Supabase, Strapi, etc.)  
 - 👨‍💻 Check out my projects at [My Portfolio](https://portfolio-eta-eight-60.vercel.app/)  
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, REST APIs, React Query, Context API, Git, TypeScript, and Next.js**  
-
-
-## 🚀 Featured Project: Thrive Agency  
-**A modern business agency website built with Next.js and Tailwind CSS.**  
-
-### 🔑 Features
-- Server-Side Rendering (SSR) & Static Site Generation (SSG)  
-- Responsive design with Tailwind CSS  
-- SEO optimized with Next.js Metadata API  
-- Deployed on Vercel  
-
-🔗 [Live Demo](https://thrive-agency-inc.vercel.app/)
 
 
 ## 🛠️ Tech Stack & Tools  
