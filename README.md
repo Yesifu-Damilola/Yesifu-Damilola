@@ -8,7 +8,7 @@ Open to freelance, remote, or contract opportunities—let’s build something i
 
 ---
 
-## 🛠️🛠️ Tech Stack & Skills  
+##🛠️ Tech Stack & Skills  
 
 - Frontend Development: React, Next.js, TypeScript, Redux, Redux Toolkit, React Query, HTML5, CSS/SCSS, Tailwind CSS
   
@@ -52,6 +52,11 @@ LinkedIn
 💻 Tech Stack:
 
 CSS3 TypeScript JavaScript HTML5 Vercel React React Query React Router React Hook Form Redux Remix TailwindCSS  Vite Webpack NodeJS Next JS NPM  Postgres  Supabase Figma Jira
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 📊 GitHub Stats:
 
