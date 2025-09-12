@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Damilola Yesifu</h1>
-<h3 align="center">🚀 About Me</h3>
+<h1 align="left">Hi 👋, I'm Damilola Yesifu</h1>
+<h3 align="left">🚀 About Me</h3>
 
 Results-driven software developer with 3+ years of expertise in software development, system architecture, and AI-driven solutions. Proficient in React, Next.js, and TypeScript, with a strong focus on building high-quality, scalable web applications. Skilled in coding and debugging, with a passion for driving innovation through AI, technology, and forward-thinking software design.
 Open to freelance, remote, or contract opportunities—let’s build something impactful together!😊 
@@ -45,9 +45,12 @@ You can:
 ### 🌱 Always Exploring
 Technology never stops evolving—and neither do I. Beyond my current stack, I’m passionate about experimenting with new tools, frameworks, and approaches that challenge me to grow and expand my horizons. 🚀
 
-🌐 Socials:
-LinkedIn
-
+<u>🌐 Socials:</u>
+<p align="left">
+  <a href="https://www.linkedin.com/in/yesifu-damilola/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 💻 Tech Stack:
 
@@ -88,7 +91,15 @@ LinkedIn
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yesifu-Damilola&layout=compact&theme=dark) 
 
+## 📊 GitHub Stats  
+<!-- Main Stats Card -->
+![Damilola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yesifu-Damilola&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=false)  
 
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yesifu-Damilola&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+
+<!-- Top Languages (hide less relevant ones) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yesifu-Damilola&layout=compact&theme=dark&langs_count=8&hide=css,scss,html)  
 
 <!--
 **Yesifu-Damilola/Yesifu-Damilola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
