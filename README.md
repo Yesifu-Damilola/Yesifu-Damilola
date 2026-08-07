@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Damilola Yesifu</h1>
 <h3 align="left">🚀 About Me</h3>
 
-Results-driven software developer with 3+ years of expertise in software development, system architecture, and AI-driven solutions. Proficient in React, Next.js, and TypeScript, with a strong focus on building high-quality, scalable web applications. Skilled in coding and debugging, with a passion for driving innovation through AI, technology, and forward-thinking software design.
-Open to freelance, remote, or contract opportunities—let’s build something impactful together!😊 
+Results-driven software developer with 4 years of expertise in software development, system architecture, and AI-driven solutions. Proficient in React, Next.js, and TypeScript, with a strong focus on building high-quality, scalable web applications. Skilled in coding and debugging, with a passion for driving innovation through AI, technology, and forward-thinking software design.
+Open to freelance, remote, or contract opportunities let’s build something impactful together!😊 
 
 
 
